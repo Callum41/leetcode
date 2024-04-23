@@ -1,0 +1,3 @@
+This time around ChatGPT helped me on the use of iterators with Python,
+a language I don't usually use that much. Still though, I wanted to try it
+and probably not for the first time 
