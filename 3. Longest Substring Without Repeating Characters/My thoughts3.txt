@@ -1,2 +1,2 @@
 I'm so glad. This is the first exercise I complete without barely any help,
-just by learning by myself many things about Strings and Chars in Java.
+ just by learning by myself many things about Strings and Chars in Java.
