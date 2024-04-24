@@ -1,0 +1,7 @@
+Well, I tried the dayly challenge after beating the third exercise.
+ Starting with Python, I overcame the challenge, but discovered
+ it wasn't as fast as it needed to be in order to pass all the tests on time, 
+ so I moved on to Java which seemed to work faster. Still though, my solution did better
+ but wasn't able to pass all the tests on time as well, so I had to tell ChatGPT to
+ improve it for me, as I didn't know how could I. Now that's another thing to work on
+ from now on, efficiency on algorithms.
