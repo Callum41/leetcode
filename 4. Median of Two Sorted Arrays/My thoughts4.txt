@@ -1,0 +1,3 @@
+This time, I had some issues with the numpy install on my laptop,
+ as for some reason, pip didn't appear nor python work on terminal.
+ Anyways, the solution wasn't as hard as I'd imagine so cool for that.
