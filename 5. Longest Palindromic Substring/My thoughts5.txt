@@ -1,0 +1,5 @@
+Well, this time around my own algorithm also didn't pass the tests on time, 
+mostly because it was more time consuming that the solution chatgpt gave me.
+I can't really do much about that, only learn about orders of algorithms, 
+but I don't know yet how to propperly refine the code in an efficient way as 
+I don't know all the libraries and functions available to do so.
